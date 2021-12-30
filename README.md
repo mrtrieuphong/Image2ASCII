@@ -81,7 +81,7 @@ You can also learn how to design your application with Python and PyQt5 here.
 
 ### Installation
 
-_Below is an tutorial for installing and setting up this app. If you wanna use this one without caring about the source code, please download and run "Install_ver1.0" instead._
+_Below is an tutorial for installing and setting up this app. If you wanna use this one without caring about the source code, please clone and run "ASCII.exe" instead._
 
 1. Clone the repo
    ```sh
@@ -95,17 +95,6 @@ _Below is an tutorial for installing and setting up this app. If you wanna use t
    ```sh
    python main.py
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
