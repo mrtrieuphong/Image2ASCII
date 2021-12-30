@@ -81,7 +81,7 @@ You can also learn how to design your application with Python and PyQt5 here.
 
 ### Installation
 
-_Below is an tutorial for installing and setting up this app. If you wanna use this one without caring about the source code, please clone and run "ASCII.exe" instead._
+_Below is an tutorial for installing and setting up this app. If you wanna use this one without caring about the source code, please clone and run "Image2ASCII.exe" instead._
 
 1. Clone the repo
    ```sh
