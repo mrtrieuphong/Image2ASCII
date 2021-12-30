@@ -23,7 +23,7 @@
     <a href="https://github.com/PhongCode/Image2ASCII"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PhongCode/Image2ASCII">View Demo</a>
+    <a href="https://nguyentrieuphong.com">My Blog</a>
     ·
     <a href="https://github.com/PhongCode/Image2ASCII/issues">Report Bug</a>
     ·
@@ -155,15 +155,15 @@ Project Link: [https://github.com/PhongCode/Image2ASCII](https://github.com/Phon
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/PhongCode/Image2ASCII.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/PhongCode/Image2ASCII/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/PhongCode/Image2ASCII.svg?style=for-the-badge
+[forks-url]: https://github.com/PhongCode/Image2ASCII/network/members
+[stars-shield]: https://img.shields.io/github/stars/PhongCode/Image2ASCII.svg?style=for-the-badge
+[stars-url]: https://github.com/PhongCode/Image2ASCII/stargazers
+[issues-shield]: https://img.shields.io/github/issues/PhongCode/Image2ASCII.svg?style=for-the-badge
+[issues-url]: https://github.com/PhongCode/Image2ASCII/issues
+[license-shield]: https://img.shields.io/github/license/PhongCode/Image2ASCII.svg?style=for-the-badge
+[license-url]: https://github.com/PhongCode/Image2ASCII/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/nguyen-trieu-phong-5498b3217/
 [product-screenshot]: static/review.png
