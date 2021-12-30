@@ -145,7 +145,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Nguyễn Triệu Phong - [@your_facebook](https://facebook.com/phong.GTVT) - trieuphongnguyen.iot@gmail.com
+Nguyễn Triệu Phong - Facebook: [Nguyễn Triệu Phong](https://facebook.com/phong.GTVT) - trieuphongnguyen.iot@gmail.com
 
 Project Link: [https://github.com/PhongCode/Image2ASCII](https://github.com/PhongCode/Image2ASCII)
 
